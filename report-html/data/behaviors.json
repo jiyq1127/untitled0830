@@ -1,0 +1,161 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_qy_article_1_go",
+    "uid" : "2f6418f87ec3ece2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1598706533322,
+      "stop" : 1598706563790,
+      "duration" : 30468
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_qy_article_1__",
+    "uid" : "fd9efb5c409a352d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1598706699667,
+      "stop" : 1598706730128,
+      "duration" : 30461
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_qy_article_1_linux",
+    "uid" : "1a4a47cba21d5ef5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1598706867596,
+      "stop" : 1598706898002,
+      "duration" : 30406
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_begin",
+    "uid" : "616425af8ab62958",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598707006981,
+      "stop" : 1598707006981,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_mp_login",
+    "uid" : "ce09c038ad8f6053",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598707016723,
+      "stop" : 1598707018935,
+      "duration" : 2212
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2W的工作！！光头也帅！！！-软件测试-新增文章成功]",
+    "uid" : "495f38bdcfbe9aa2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598707019517,
+      "stop" : 1598707036980,
+      "duration" : 17463
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'软件测试'", "'很想找一份月薪2W的工作！！光头也帅！！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+  }, {
+    "name" : "test_end",
+    "uid" : "ca3e42c06b9966ef",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598707036998,
+      "stop" : 1598707042239,
+      "duration" : 5241
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_begin",
+    "uid" : "931a80913a6a26a0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598707042245,
+      "stop" : 1598707042245,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_mis_login",
+    "uid" : "3fce51fc82a00885",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598707051418,
+      "stop" : 1598707051801,
+      "duration" : 383
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_ari_pass",
+    "uid" : "6dff724c2128ca18",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598707051827,
+      "stop" : 1598707063990,
+      "duration" : 12163
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_end",
+    "uid" : "3f4d6365f46b8995",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598707063995,
+      "stop" : 1598707069516,
+      "duration" : 5521
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_qy_article_0__",
+    "uid" : "2b2861f1ce7ef6c9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598707076495,
+      "stop" : 1598707177637,
+      "duration" : 101142
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

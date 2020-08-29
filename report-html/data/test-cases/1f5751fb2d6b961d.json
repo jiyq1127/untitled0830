@@ -1,0 +1,154 @@
+{
+  "uid" : "1f5751fb2d6b961d",
+  "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2W的工作！！光头也帅！！！-软件测试-新增文章成功]",
+  "fullName" : "case.mp_case.test_pub_artical.TestPubArtical#test_pub_ari",
+  "historyId" : "317991ae54b9818c9e71b38cc2ed152a",
+  "time" : {
+    "start" : 1598703850780,
+    "stop" : 1598703861205,
+    "duration" : 10425
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598703849348,
+      "stop" : 1598703849349,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1598703849349,
+      "stop" : 1598703850778,
+      "duration" : 1429
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5ee0698ee12e7786",
+      "name" : "发布文章",
+      "source" : "5ee0698ee12e7786.png",
+      "type" : "image/png",
+      "size" : 72834
+    }, {
+      "uid" : "166f318d64753482",
+      "name" : "log",
+      "source" : "166f318d64753482.txt",
+      "type" : "text/plain",
+      "size" : 94
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598703861347,
+      "stop" : 1598703861347,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1598703861346,
+      "stop" : 1598703861346,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mp_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_pub_artical"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPubArtical"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-5VVFDST"
+  }, {
+    "name" : "thread",
+    "value" : "20732-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mp_case.test_pub_artical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ari_channel",
+    "value" : "'软件测试'"
+  }, {
+    "name" : "ari_context",
+    "value" : "'很想找一份月薪2W的工作！！光头也帅！！！'"
+  }, {
+    "name" : "ari_title",
+    "value" : "'BJ23_TESTER_NB_{}'"
+  }, {
+    "name" : "expect",
+    "value" : "'新增文章成功'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "1f5751fb2d6b961d.json",
+  "parameterValues" : [ "'软件测试'", "'很想找一份月薪2W的工作！！光头也帅！！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+}

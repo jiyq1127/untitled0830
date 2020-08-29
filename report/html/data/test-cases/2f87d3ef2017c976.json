@@ -1,0 +1,59 @@
+{
+  "uid" : "2f87d3ef2017c976",
+  "name" : "test_end",
+  "fullName" : "case.mp_case.test_end.TestEnd#test_end",
+  "historyId" : "ecdf4b6c2be35d7efff225efd5f67428",
+  "time" : {
+    "start" : 1598605088949,
+    "stop" : 1598605094130,
+    "duration" : 5181
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=4)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mp_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_end"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEnd"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-5VVFDST"
+  }, {
+    "name" : "thread",
+    "value" : "1992-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mp_case.test_end"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=4)" ]
+  },
+  "source" : "2f87d3ef2017c976.json",
+  "parameterValues" : [ ]
+}

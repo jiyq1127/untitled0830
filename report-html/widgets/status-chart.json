@@ -1,0 +1,121 @@
+[ {
+  "uid" : "1a4a47cba21d5ef5",
+  "name" : "test_qy_article_1_linux",
+  "time" : {
+    "start" : 1598706867596,
+    "stop" : 1598706898002,
+    "duration" : 30406
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "495f38bdcfbe9aa2",
+  "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2W的工作！！光头也帅！！！-软件测试-新增文章成功]",
+  "time" : {
+    "start" : 1598707019517,
+    "stop" : 1598707036980,
+    "duration" : 17463
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "2b2861f1ce7ef6c9",
+  "name" : "test_qy_article_0__",
+  "time" : {
+    "start" : 1598707076495,
+    "stop" : 1598707177637,
+    "duration" : 101142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3fce51fc82a00885",
+  "name" : "test_mis_login",
+  "time" : {
+    "start" : 1598707051418,
+    "stop" : 1598707051801,
+    "duration" : 383
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "616425af8ab62958",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598707006981,
+    "stop" : 1598707006981,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6dff724c2128ca18",
+  "name" : "test_ari_pass",
+  "time" : {
+    "start" : 1598707051827,
+    "stop" : 1598707063990,
+    "duration" : 12163
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce09c038ad8f6053",
+  "name" : "test_mp_login",
+  "time" : {
+    "start" : 1598707016723,
+    "stop" : 1598707018935,
+    "duration" : 2212
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2f6418f87ec3ece2",
+  "name" : "test_qy_article_1_go",
+  "time" : {
+    "start" : 1598706533322,
+    "stop" : 1598706563790,
+    "duration" : 30468
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "931a80913a6a26a0",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598707042245,
+    "stop" : 1598707042245,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd9efb5c409a352d",
+  "name" : "test_qy_article_1__",
+  "time" : {
+    "start" : 1598706699667,
+    "stop" : 1598706730128,
+    "duration" : 30461
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3f4d6365f46b8995",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598707063995,
+    "stop" : 1598707069516,
+    "duration" : 5521
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca3e42c06b9966ef",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598707036998,
+    "stop" : 1598707042239,
+    "duration" : 5241
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

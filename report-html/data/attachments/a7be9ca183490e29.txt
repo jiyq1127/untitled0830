@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_pub_artical.py:26 发布文章的标题为：BJ23_TESTER_NB_195924

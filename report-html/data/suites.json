@@ -1,0 +1,245 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case.app_case",
+    "children" : [ {
+      "name" : "test_query_artical",
+      "children" : [ {
+        "name" : "TestQueryAritcal",
+        "children" : [ {
+          "name" : "test_qy_article_1_go",
+          "uid" : "2f6418f87ec3ece2",
+          "parentUid" : "318bc3318af2bee10803954f59894bf6",
+          "status" : "broken",
+          "time" : {
+            "start" : 1598706533322,
+            "stop" : 1598706563790,
+            "duration" : 30468
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_qy_article_1__",
+          "uid" : "fd9efb5c409a352d",
+          "parentUid" : "318bc3318af2bee10803954f59894bf6",
+          "status" : "broken",
+          "time" : {
+            "start" : 1598706699667,
+            "stop" : 1598706730128,
+            "duration" : 30461
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_qy_article_1_linux",
+          "uid" : "1a4a47cba21d5ef5",
+          "parentUid" : "318bc3318af2bee10803954f59894bf6",
+          "status" : "broken",
+          "time" : {
+            "start" : 1598706867596,
+            "stop" : 1598706898002,
+            "duration" : 30406
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_qy_article_0__",
+          "uid" : "2b2861f1ce7ef6c9",
+          "parentUid" : "318bc3318af2bee10803954f59894bf6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598707076495,
+            "stop" : 1598707177637,
+            "duration" : 101142
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "318bc3318af2bee10803954f59894bf6"
+      } ],
+      "uid" : "2a111fa8d8e8c99223f55485ea12ab90"
+    } ],
+    "uid" : "11c9d07b15040c2e3e47466064d257a2"
+  }, {
+    "name" : "case.mp_case",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "TestBegin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "616425af8ab62958",
+          "parentUid" : "97cffaa49a369131edd2b83a395acd01",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598707006981,
+            "stop" : 1598707006981,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "97cffaa49a369131edd2b83a395acd01"
+      } ],
+      "uid" : "5e2be0c91504f801ac46f1204dd40d3c"
+    }, {
+      "name" : "test_mp_login",
+      "children" : [ {
+        "name" : "TestMpLogin",
+        "children" : [ {
+          "name" : "test_mp_login",
+          "uid" : "ce09c038ad8f6053",
+          "parentUid" : "3ae459b5a4a5930612ee51909d25f9da",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598707016723,
+            "stop" : 1598707018935,
+            "duration" : 2212
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3ae459b5a4a5930612ee51909d25f9da"
+      } ],
+      "uid" : "bffd22afc82b6d87afb01ba706273abb"
+    }, {
+      "name" : "test_pub_artical",
+      "children" : [ {
+        "name" : "TestPubArtical",
+        "children" : [ {
+          "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2W的工作！！光头也帅！！！-软件测试-新增文章成功]",
+          "uid" : "495f38bdcfbe9aa2",
+          "parentUid" : "948ff12138a4c886e8074651f389e1f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598707019517,
+            "stop" : 1598707036980,
+            "duration" : 17463
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'软件测试'", "'很想找一份月薪2W的工作！！光头也帅！！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+        } ],
+        "uid" : "948ff12138a4c886e8074651f389e1f0"
+      } ],
+      "uid" : "8f65d06278f3b644f4f14fdf391fd2b7"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "TestEnd",
+        "children" : [ {
+          "name" : "test_end",
+          "uid" : "ca3e42c06b9966ef",
+          "parentUid" : "72bdefb3d3c34d64b52874f37b8afb32",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598707036998,
+            "stop" : 1598707042239,
+            "duration" : 5241
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "72bdefb3d3c34d64b52874f37b8afb32"
+      } ],
+      "uid" : "db4f7a8243b67fe7d3a320a212ec1151"
+    } ],
+    "uid" : "966b2f04429f12e47dacfda6550dd374"
+  }, {
+    "name" : "case.mis_case",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "TestBegin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "931a80913a6a26a0",
+          "parentUid" : "2f0969a188b2480832e51b400e874f1b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598707042245,
+            "stop" : 1598707042245,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2f0969a188b2480832e51b400e874f1b"
+      } ],
+      "uid" : "dd6ffa471dadb9d668c2157d096fa3c2"
+    }, {
+      "name" : "test_mis_login",
+      "children" : [ {
+        "name" : "TestMisLogin",
+        "children" : [ {
+          "name" : "test_mis_login",
+          "uid" : "3fce51fc82a00885",
+          "parentUid" : "a2c6629e64894d7192006a2289f0be5d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598707051418,
+            "stop" : 1598707051801,
+            "duration" : 383
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a2c6629e64894d7192006a2289f0be5d"
+      } ],
+      "uid" : "3204854c9232bfc09a59747ac568fbaa"
+    }, {
+      "name" : "test_artical_manage",
+      "children" : [ {
+        "name" : "TestArticleMana",
+        "children" : [ {
+          "name" : "test_ari_pass",
+          "uid" : "6dff724c2128ca18",
+          "parentUid" : "4f9f7f5b5d40d66d2e2cac593af8aa6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598707051827,
+            "stop" : 1598707063990,
+            "duration" : 12163
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4f9f7f5b5d40d66d2e2cac593af8aa6e"
+      } ],
+      "uid" : "cecc9d2771111612edd6398ca9dad9f5"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "TestEnd",
+        "children" : [ {
+          "name" : "test_end",
+          "uid" : "3f4d6365f46b8995",
+          "parentUid" : "f858d365992f15f7c88061e0c57520c3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598707063995,
+            "stop" : 1598707069516,
+            "duration" : 5521
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f858d365992f15f7c88061e0c57520c3"
+      } ],
+      "uid" : "1fcb9e20921cbc616d26571ff9230928"
+    } ],
+    "uid" : "d202870df21698ddf9d81f2a25778a79"
+  } ]
+}

@@ -1,0 +1,86 @@
+{
+  "uid" : "822aefe1d6d8788e",
+  "name" : "test_qy_article_0__",
+  "fullName" : "case.app_case.test_query_artical.TestQueryAritcal#test_qy_article_0__",
+  "historyId" : "662e8989b1b729ccd328f4adb7aaba79",
+  "time" : {
+    "start" : 1598703940058,
+    "stop" : 1598703940059,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "statusMessage" : "TypeError: test_qari_by_channel() missing 1 required positional argument: 'channel_name'",
+  "statusTrace" : "a = (<case.app_case.test_query_artical.TestQueryAritcal testMethod=test_qy_article_0__>,)\n\n    @wraps(func)\n    def standalone_func(*a):\n>       return func(*(a + p.args), **p.kwargs)\n\nc:\\program files\\python36\\lib\\site-packages\\parameterized\\parameterized.py:530: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <case.app_case.test_query_artical.TestQueryAritcal testMethod=test_qy_article_0__>, channel_name = '架构'\n\n    @parameterized.expand([\"架构\", \"linux\"])\n    def test_qy_article(self, channel_name):\n        # channel_name = \"架构\"\n>       self.index_proxy.test_qari_by_channel(channel_name)\nE       TypeError: test_qari_by_channel() missing 1 required positional argument: 'channel_name'\n\ncase\\app_case\\test_query_artical.py:22: TypeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1598703896311,
+      "stop" : 1598703940057,
+      "duration" : 43746
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1598703940091,
+      "stop" : 1598703944995,
+      "duration" : 4904
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case.app_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_query_artical"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestQueryAritcal"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-5VVFDST"
+  }, {
+    "name" : "thread",
+    "value" : "20732-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.app_case.test_query_artical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "822aefe1d6d8788e.json",
+  "parameterValues" : [ ]
+}

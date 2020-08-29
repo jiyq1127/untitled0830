@@ -1,0 +1,81 @@
+[ {
+  "uid" : "66e644c618f8550e",
+  "name" : "test_mp_login",
+  "time" : {
+    "start" : 1598605077979,
+    "stop" : 1598605078818,
+    "duration" : 839
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "804e9be240eb1bdd",
+  "name" : "test_mis_login",
+  "time" : {
+    "start" : 1598605102809,
+    "stop" : 1598605103145,
+    "duration" : 336
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dabd373f776899c4",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598605069770,
+    "stop" : 1598605069770,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ffffae7684b8062c",
+  "name" : "test_ari_pass",
+  "time" : {
+    "start" : 1598605103161,
+    "stop" : 1598605113165,
+    "duration" : 10004
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f87d3ef2017c976",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598605088949,
+    "stop" : 1598605094130,
+    "duration" : 5181
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24fcbc41badeae4d",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598605113170,
+    "stop" : 1598605118393,
+    "duration" : 5223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32f043423dffb596",
+  "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2W的工作！！光头也帅！！！-软件测试-新增文章成功]",
+  "time" : {
+    "start" : 1598605079393,
+    "stop" : 1598605088934,
+    "duration" : 9541
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8f0dd84ebf9b037",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598605094136,
+    "stop" : 1598605094136,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

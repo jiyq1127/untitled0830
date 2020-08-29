@@ -1,0 +1,4 @@
+2020-08-29 19:36:27,239 INFO [test_pub_artical.py(test_pub_ari:26)] - 发布文章的标题为：BJ23_TESTER_NB_193627
+2020-08-29 19:59:24,046 INFO [test_pub_artical.py(test_pub_ari:26)] - 发布文章的标题为：BJ23_TESTER_NB_195924
+2020-08-29 20:24:10,779 INFO [test_pub_artical.py(test_pub_ari:30)] - 发布文章的标题为：BJ23_TESTER_NB_202410
+2020-08-29 21:16:59,517 INFO [test_pub_artical.py(test_pub_ari:30)] - 发布文章的标题为：BJ23_TESTER_NB_211659

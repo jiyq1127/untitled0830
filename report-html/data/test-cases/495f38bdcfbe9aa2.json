@@ -1,0 +1,188 @@
+{
+  "uid" : "495f38bdcfbe9aa2",
+  "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2W的工作！！光头也帅！！！-软件测试-新增文章成功]",
+  "fullName" : "case.mp_case.test_pub_artical.TestPubArtical#test_pub_ari",
+  "historyId" : "317991ae54b9818c9e71b38cc2ed152a",
+  "time" : {
+    "start" : 1598707019517,
+    "stop" : 1598707036980,
+    "duration" : 17463
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598707018981,
+      "stop" : 1598707018982,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1598707018982,
+      "stop" : 1598707019516,
+      "duration" : 534
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c8334e7370698c4f",
+      "name" : "发布文章",
+      "source" : "c8334e7370698c4f.png",
+      "type" : "image/png",
+      "size" : 57561
+    }, {
+      "uid" : "27e2abc56686eec8",
+      "name" : "log",
+      "source" : "27e2abc56686eec8.txt",
+      "type" : "text/plain",
+      "size" : 94
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598707036988,
+      "stop" : 1598707036988,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1598707036986,
+      "stop" : 1598707036986,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mp_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_pub_artical"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPubArtical"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-5VVFDST"
+  }, {
+    "name" : "thread",
+    "value" : "19776-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mp_case.test_pub_artical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ari_channel",
+    "value" : "'软件测试'"
+  }, {
+    "name" : "ari_context",
+    "value" : "'很想找一份月薪2W的工作！！光头也帅！！！'"
+  }, {
+    "name" : "ari_title",
+    "value" : "'BJ23_TESTER_NB_{}'"
+  }, {
+    "name" : "expect",
+    "value" : "'新增文章成功'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "1f5751fb2d6b961d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598703850780,
+        "stop" : 1598703861205,
+        "duration" : 10425
+      }
+    }, {
+      "uid" : "446cff6cb0e0f50e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598702364045,
+        "stop" : 1598702374911,
+        "duration" : 10866
+      }
+    }, {
+      "uid" : "353dedb2d2720e8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598700987239,
+        "stop" : 1598700998260,
+        "duration" : 11021
+      }
+    }, {
+      "uid" : "d488ef01b8de7e9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598605079393,
+        "stop" : 1598605088934,
+        "duration" : 9541
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "495f38bdcfbe9aa2.json",
+  "parameterValues" : [ "'软件测试'", "'很想找一份月薪2W的工作！！光头也帅！！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+}

@@ -1,0 +1,181 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case.mp_case",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "TestBegin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "dabd373f776899c4",
+          "parentUid" : "97cffaa49a369131edd2b83a395acd01",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598605069770,
+            "stop" : 1598605069770,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "97cffaa49a369131edd2b83a395acd01"
+      } ],
+      "uid" : "5e2be0c91504f801ac46f1204dd40d3c"
+    }, {
+      "name" : "test_mp_login",
+      "children" : [ {
+        "name" : "TestMpLogin",
+        "children" : [ {
+          "name" : "test_mp_login",
+          "uid" : "66e644c618f8550e",
+          "parentUid" : "3ae459b5a4a5930612ee51909d25f9da",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598605077979,
+            "stop" : 1598605078818,
+            "duration" : 839
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3ae459b5a4a5930612ee51909d25f9da"
+      } ],
+      "uid" : "bffd22afc82b6d87afb01ba706273abb"
+    }, {
+      "name" : "test_pub_artical",
+      "children" : [ {
+        "name" : "TestPubArtical",
+        "children" : [ {
+          "name" : "test_pub_ari[BJ23_TESTER_NB_{}-很想找一份月薪2W的工作！！光头也帅！！！-软件测试-新增文章成功]",
+          "uid" : "32f043423dffb596",
+          "parentUid" : "948ff12138a4c886e8074651f389e1f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598605079393,
+            "stop" : 1598605088934,
+            "duration" : 9541
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'软件测试'", "'很想找一份月薪2W的工作！！光头也帅！！！'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+        } ],
+        "uid" : "948ff12138a4c886e8074651f389e1f0"
+      } ],
+      "uid" : "8f65d06278f3b644f4f14fdf391fd2b7"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "TestEnd",
+        "children" : [ {
+          "name" : "test_end",
+          "uid" : "2f87d3ef2017c976",
+          "parentUid" : "72bdefb3d3c34d64b52874f37b8afb32",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598605088949,
+            "stop" : 1598605094130,
+            "duration" : 5181
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "72bdefb3d3c34d64b52874f37b8afb32"
+      } ],
+      "uid" : "db4f7a8243b67fe7d3a320a212ec1151"
+    } ],
+    "uid" : "966b2f04429f12e47dacfda6550dd374"
+  }, {
+    "name" : "case.mis_case",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "TestBegin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "f8f0dd84ebf9b037",
+          "parentUid" : "2f0969a188b2480832e51b400e874f1b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598605094136,
+            "stop" : 1598605094136,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2f0969a188b2480832e51b400e874f1b"
+      } ],
+      "uid" : "dd6ffa471dadb9d668c2157d096fa3c2"
+    }, {
+      "name" : "test_mis_login",
+      "children" : [ {
+        "name" : "TestMisLogin",
+        "children" : [ {
+          "name" : "test_mis_login",
+          "uid" : "804e9be240eb1bdd",
+          "parentUid" : "a2c6629e64894d7192006a2289f0be5d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598605102809,
+            "stop" : 1598605103145,
+            "duration" : 336
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a2c6629e64894d7192006a2289f0be5d"
+      } ],
+      "uid" : "3204854c9232bfc09a59747ac568fbaa"
+    }, {
+      "name" : "test_artical_manage",
+      "children" : [ {
+        "name" : "TestArticleMana",
+        "children" : [ {
+          "name" : "test_ari_pass",
+          "uid" : "ffffae7684b8062c",
+          "parentUid" : "4f9f7f5b5d40d66d2e2cac593af8aa6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598605103161,
+            "stop" : 1598605113165,
+            "duration" : 10004
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4f9f7f5b5d40d66d2e2cac593af8aa6e"
+      } ],
+      "uid" : "cecc9d2771111612edd6398ca9dad9f5"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "TestEnd",
+        "children" : [ {
+          "name" : "test_end",
+          "uid" : "24fcbc41badeae4d",
+          "parentUid" : "f858d365992f15f7c88061e0c57520c3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598605113170,
+            "stop" : 1598605118393,
+            "duration" : 5223
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f858d365992f15f7c88061e0c57520c3"
+      } ],
+      "uid" : "1fcb9e20921cbc616d26571ff9230928"
+    } ],
+    "uid" : "d202870df21698ddf9d81f2a25778a79"
+  } ]
+}

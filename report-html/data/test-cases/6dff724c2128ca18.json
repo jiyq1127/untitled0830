@@ -1,0 +1,114 @@
+{
+  "uid" : "6dff724c2128ca18",
+  "name" : "test_ari_pass",
+  "fullName" : "case.mis_case.test_artical_manage.TestArticleMana#test_ari_pass",
+  "historyId" : "40cf2c7d3b93737194957a449838f909",
+  "time" : {
+    "start" : 1598707051827,
+    "stop" : 1598707063990,
+    "duration" : 12163
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598707051826,
+      "stop" : 1598707051826,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598707063992,
+      "stop" : 1598707063992,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=103)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mis_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_artical_manage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestArticleMana"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-5VVFDST"
+  }, {
+    "name" : "thread",
+    "value" : "19776-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mis_case.test_artical_manage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5f740d26f7a2d02c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598703878809,
+        "stop" : 1598703891062,
+        "duration" : 12253
+      }
+    }, {
+      "uid" : "3d539efd08087b69",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: chrome not reachable\n  (Session info: chrome=83.0.4103.106)",
+      "time" : {
+        "start" : 1598700953310,
+        "stop" : 1598700961407,
+        "duration" : 8097
+      }
+    }, {
+      "uid" : "97b9707636f2fdcc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598605103161,
+        "stop" : 1598605113165,
+        "duration" : 10004
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=103)" ]
+  },
+  "source" : "6dff724c2128ca18.json",
+  "parameterValues" : [ ]
+}
